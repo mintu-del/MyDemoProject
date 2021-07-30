@@ -1,0 +1,4 @@
+include ':ModuleImport'
+include ':UploadDoc'
+include ':app'
+rootProject.name = "MyDemoProject"
